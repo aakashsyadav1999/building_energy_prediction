@@ -80,6 +80,9 @@ class DataIngestion:
                 raise FileNotFoundError("No CSV files found in the directory")
             csv_file_path = os.path.join(data_directory, csv_files[0])
             df = pd.read_csv(csv_file_path, encoding='latin1', low_memory=False, skipinitialspace=True)
+            df.columns = df.columns.str.replace(" ","_")
+            df.to_csv("with_commas.csv")
+            print(df.head())
             return df
         except Exception as e:
             logging.error(f"No CSV file found: {e}")
@@ -144,7 +147,7 @@ class DataIngestion:
 
             df=self.read_csv()
 
-            df = self.drop_outliers(df['2022 EUI'],df)
+            df = self.drop_outliers(df['2022_EUI'],df)
 
             self.split_train_test_split(df)
 
