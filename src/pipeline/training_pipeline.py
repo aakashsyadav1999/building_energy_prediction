@@ -5,9 +5,10 @@ from src.constants import *
 
 from src.components.data_ingestion import DataIngestion
 from src.components.data_transformation import DataTransformation
+from src.components.model_trainer import ModelTrainer
 
 from src.entity.config_entity import (
-    DataIngestionConfig,DataTransformationConfig
+    DataIngestionConfig,DataTransformationConfig,ModelTrainerConfig
     
 )
 
@@ -21,6 +22,7 @@ class TrainPipeline:
         def __init__(self):
             self.data_ingestion_config = DataIngestionConfig()
             self.data_transformation_config = DataTransformationConfig()
+            self.model_trainer_config = ModelTrainerConfig()
 
 
         #Permission for directory to read, write, delete    
@@ -81,6 +83,27 @@ class TrainPipeline:
                 raise NerException(e, sys) from e
 
 
+        #This method starts model trainer.
+        def start_model_trainer(self,train_arr, test_arr) -> ModelTrainerConfig:
+            logging.info("Entered Model Building in training pipeline")
+            try:
+                directory_path = self.model_trainer_config.model_trainer_dir
+                self.create_directory_with_permissions(directory_path)
+                logging.info(f"Creating {directory_path}")
+
+                logging.info("Starting Model Trainer")
+                #Make object of model transformation config and all the initate model transformation function.
+                model_trainer = ModelTrainer(
+                    model_trainer_config=self.model_trainer_config
+                )
+                #call function
+                model_trainer= model_trainer.initiate_model_trainer(train_arr, test_arr)
+                logging.info("Creating model")
+                logging.info("Exited the model trainer method of TrainPipeline class")
+                return model_trainer 
+            except Exception as e:
+                raise NerException(e, sys) from e
+
 
 
         # This method is used to start the training pipeline
@@ -89,6 +112,6 @@ class TrainPipeline:
                 logging.info("Started Model training >>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
                 #data_ingestion_artifact = self.start_data_ingestion()
                 train_arr,test_arr = self.start_data_transformation()
-                #model_transformations = self.start_model_trainer(train_arr,test_arr)
+                model_transformations = self.start_model_trainer(train_arr,test_arr)
             except Exception as e:
                 raise e
