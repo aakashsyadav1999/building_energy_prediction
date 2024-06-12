@@ -29,10 +29,11 @@ sample_df = pd.DataFrame(data)
 
 import pickle
 
-#model_path=os.path.join("MODEL_DIR","model.pkl")
+model_path=os.path.join("MODEL_DIR","model.pkl")
 preprocessor_path=os.path.join("MODEL_DIR","preprocessor.pkl")
 print("Before Loading")
 
+model = load_object(file_path=model_path)
 preprocessor = load_object(file_path=preprocessor_path)
 
 
@@ -42,4 +43,15 @@ preprocessed_sample_data = preprocessor.transform(sample_df)
 preprocessed_sample_data_df = pd.DataFrame(preprocessed_sample_data)
 preprocessed_sample_data_df.to_csv("preprocessed_sample_data_df.csv")
 
+
+# Predict using the loaded model
+predictions = model.predict(preprocessed_sample_data_df)
+
+# Combine predictions with the sample data
+sample_df['Predictions'] = predictions
+
+# Save the sample data with predictions to a CSV file
+sample_df.to_csv('sample_data_with_predictions.csv', index=False)
+
+print(sample_df)
 print(preprocessed_sample_data)
