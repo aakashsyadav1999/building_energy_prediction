@@ -80,6 +80,21 @@ class EnsureDataFrame(BaseEstimator, TransformerMixin):
         if not isinstance(X, pd.DataFrame):
             X = pd.DataFrame(X)
         return X
+    
+
+@dataclass
+class RemoveCommasTransformer(BaseEstimator, TransformerMixin):
+    columns_to_remove_comma: list
+
+    def fit(self, X, y=None):
+        return self
+
+    def transform(self, X, y=None):
+        X = X.copy()
+        for col in self.columns_to_remove_comma:
+            X[col] = X[col].astype(str).str.replace(",", "").astype(float)
+        return X
+
 
 @dataclass
 class DataTransformation:
@@ -104,6 +119,7 @@ class DataTransformation:
             cat_cols = self.data_transformation_config.one_hot_encoding
             ordinal_encode_cols = self.data_transformation_config.ordinal_encoding
             target_encode_cols = self.data_transformation_config.target_encoding
+            columns_to_remove_comma = self.data_transformation_config.comma_removal
 
 
 
@@ -123,11 +139,16 @@ class DataTransformation:
             ("target_encoder", TargetEncoder(smoothing=2.0))
             ])
 
+            remove_commas_pipeline = Pipeline(steps=[
+                ("remove_commas", RemoveCommasTransformer(columns_to_remove_comma))
+            ])
+
             logging.info(f"Categorical Columns: {cat_cols}")
             logging.info(f"Ordinal Encode Columns: {ordinal_encode_cols}")
 
             preprocessor = ColumnTransformer(
                 transformers=[
+                    ("remove_commas_pipeline", remove_commas_pipeline, columns_to_remove_comma),
                     ("cat_pipeline", cat_pipeline, cat_cols),
                     ("ordinal_pipeline", ordinal_pipeline, ordinal_encode_cols),
                     ("target_pipeline", target_pipeline, target_encode_cols),
