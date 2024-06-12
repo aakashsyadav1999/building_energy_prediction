@@ -1,9 +1,9 @@
 from dataclasses import dataclass
+import numpy as np
 import os
 import pandas as pd
 from zipfile import ZipFile
 from pathlib import Path
-
 import zipfile
 import stat
 import gdown
@@ -84,7 +84,26 @@ class DataIngestion:
         except Exception as e:
             logging.error(f"No CSV file found: {e}")
             raise
-        
+
+    def drop_outliers (self,labels,df):
+
+        Q1 = np.percentile(labels, 25)
+        Q3 = np.percentile(labels, 75)
+
+        # Calculate the IQR
+        IQR = Q3 - Q1
+
+        # Define the outlier step
+        outlier_step = 1.5 * IQR
+
+        # Identify outliers
+        outliers_indices = labels[(labels < Q1 - outlier_step) | (labels > Q3 + outlier_step)].index
+
+        # Remove outliers
+        df_cleaned = df.drop(outliers_indices)
+
+        return df_cleaned
+                
     def split_train_test_split(self,df):
         try:
             
@@ -125,7 +144,7 @@ class DataIngestion:
 
             df=self.read_csv()
 
-            
+            df = self.drop_outliers(df['2022 EUI'],df)
 
             self.split_train_test_split(df)
 
