@@ -9,7 +9,7 @@ LOGS_FILE_NAME = "SIDFC.log"
 
 #Data Ingestion
 DATA_INGESTION_ROOT = "DataIngestionArtifacts"
-SOURCE_URL= "https://drive.google.com/file/d/1-uFAXfd4xUDJF7VdIkRwUebfYns9CnQ_/view?usp=sharing"
+SOURCE_URL= "https://drive.google.com/file/d/1vIM4iYUO0INrK-iVUgPXABrwo8BZeDEY/view?usp=sharing"
 UNZIP_DIR= DATA_INGESTION_ROOT
 LOCAL_FILE_PATH = "building_energy.zip"
 UNZIP_DIR_CSV_DATA = "DataIngestionArtifacts"
@@ -19,17 +19,17 @@ SPLIT_TRAIN_TES_DATA = "DataTransformationArtifacts"
 DATA_TRANSFORMATION_DIR = "DataTransformationArtifacts"
 DATA_TRANSFORMATION_FILE = 'cleaned_data.csv'
 COLUMNS_TO_DROP = [
-                    '2020_EUI',
-                    '2020_EUI_Quartile/_Energy_Ranking',
-                    '2021_EUI',
-                    '2021_EUI_Quartile/_Energy_Ranking',
-                    '2022_EUI_Quartile/_Energy_Ranking',
+                    'EUI2020',
+                    'EUI_Quartile__Energy_Ranking2020',
+                    'EUI2021_',
+                    'EUI_Quartile__Energy_Ranking_2021',
+                    'EUI_Quartile__Energy_Ranking_2022',
                     'AC_Area_Percentage'
                 ]
 
 ORDINAL_ENCODING = [
                     
-                    'Award_(Green/Non-Green)'
+                    'Award__Green_Non_Green_'
                 
                 ]
 
@@ -44,10 +44,10 @@ ONE_HOT_ENCODING = [
 TARGET_ENCODING = [
                     'Green_Mark_Version',
                     'AC_Type',
-                    'TOP/CSC_Year'
+                    'TOP_CSC_Year'
                 ]
 
-TARGET_COLUMN = '2022_EUI'
+TARGET_COLUMN = 'EUI2022_'
 
 
 
