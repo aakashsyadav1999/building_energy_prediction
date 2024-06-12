@@ -19,41 +19,41 @@ SPLIT_TRAIN_TES_DATA = "DataTransformationArtifacts"
 DATA_TRANSFORMATION_DIR = "DataTransformationArtifacts"
 DATA_TRANSFORMATION_FILE = 'cleaned_data.csv'
 COLUMNS_TO_DROP = [
-                    '2020 EUI',
-                    '2020 EUI Quartile/ Energy Ranking',
-                    '2021 EUI',
-                    '2021 EUI Quartile/ Energy Ranking',
-                    '2022 EUI Quartile/ Energy Ranking',
-                    'AC Area Percentage'
+                    '2020_EUI',
+                    '2020_EUI_Quartile/_Energy_Ranking',
+                    '2021_EUI',
+                    '2021_EUI_Quartile/_Energy_Ranking',
+                    '2022_EUI_Quartile/_Energy_Ranking',
+                    'AC_Area_Percentage'
                 ]
 
 ORDINAL_ENCODING = [
                     
-                    'Award (Green/Non-Green)'
+                    'Award_(Green/Non-Green)'
                 
                 ]
 
 ONE_HOT_ENCODING = [
                     
-                    'Building Type', 
-                    'Main Function',
-                    'Building Size'
+                    'Building_Type', 
+                    'Main_Function',
+                    'Building_Size'
 
                 ]
 
 TARGET_ENCODING = [
-                    'Green Mark Version',
-                    'AC Type',
-                    'TOP/CSC Year'
+                    'Green_Mark_Version',
+                    'AC_Type',
+                    'TOP/CSC_Year'
                 ]
 
-TARGET_COLUMN = '2022 EUI'
+TARGET_COLUMN = '2022_EUI'
 
 
 
 COMMA_REMOVAL = [
                     'GFA',
-                    'AC Area'
+                    'AC_Area'
                 ]
 
 
