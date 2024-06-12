@@ -43,10 +43,31 @@ ONE_HOT_ENCODING = [
 
 TARGET_ENCODING = [
                     'Green Mark Version',
-                    'AC Type'
+                    'AC Type',
+                    'TOP/CSC Year'
                 ]
 
 TARGET_COLUMN = '2022 EUI'
+
+
+
+COMMA_REMOVAL = [
+                    'GFA',
+                    'AC Area'
+                ]
+
+
+#Model Building
+MODEL_TRAINING_ARTIFACTS_DIR = "ModelTrainingArtifacts"
+
+# Define the parameter grid
+PARAM_GRID = {
+    'n_estimators': [50, 100, 200],
+    'max_features': ['auto', 'sqrt', 'log2'],
+    'max_depth': [None, 10, 20, 30],
+    'min_samples_split': [2, 5, 10],
+    'min_samples_leaf': [1, 2, 4]
+}
 
 
 
