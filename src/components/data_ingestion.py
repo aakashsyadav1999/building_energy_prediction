@@ -81,6 +81,11 @@ class DataIngestion:
             csv_file_path = os.path.join(data_directory, csv_files[0])
             df = pd.read_csv(csv_file_path, encoding='latin1', low_memory=False, skipinitialspace=True)
             df.columns = df.columns.str.replace(" ","_")
+            df.columns = df.columns.str.replace("/","_")
+            df.columns = df.columns.str.replace("(","_")
+            df.columns = df.columns.str.replace(")","_")
+            df.columns = df.columns.str.replace(".","")
+            df.columns = df.columns.str.replace("-","_")
             df.to_csv("with_commas.csv")
             print(df.head())
             return df
@@ -147,7 +152,7 @@ class DataIngestion:
 
             df=self.read_csv()
 
-            df = self.drop_outliers(df['2022_EUI'],df)
+            df = self.drop_outliers(df['EUI2022_'],df)
 
             self.split_train_test_split(df)
 
