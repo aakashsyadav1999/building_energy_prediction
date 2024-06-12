@@ -51,3 +51,17 @@ class DataTransformationConfig:
         self.target_encoding:list = TARGET_ENCODING
 
         self.target_column:list = TARGET_COLUMN
+
+        self.comma_removal:list = COMMA_REMOVAL
+
+#Model Trainer 
+@dataclass
+class ModelTrainerConfig:
+
+    def __init__(self):
+        
+        self.model_trainer_dir:str = os.path.join(
+            ARTIFACTS_DIR,MODEL_TRAINING_ARTIFACTS_DIR
+        )
+
+        self.params = PARAM_GRID
