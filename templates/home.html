@@ -1,0 +1,108 @@
+<html>
+<body>
+    <div class="login">
+       <h1>LEED PREDICTOR</h1>
+   
+       <form action="{{ url_for('predict_datapoint')}}" method="post">
+        <h1>
+            <legend>LEED PREDICTION</legend>
+        </h1>
+        <div class="mb-3">
+            <label class="form-label">Building_Type</label>
+            <input class="form-control" type="text" name="Building_Type"
+                placeholder="Building_Type" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Main_Function</label>
+            <input class="form-control" type="text" name="Main_Function"
+                placeholder="Main_Function" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Building_Size</label>
+            <input class="form-control" type="text" name="Building_Size"
+                placeholder="Building_Size" min='0' max='10' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">EUI2020</label>
+            <input class="form-control" type="number" name="EUI2020"
+                placeholder="EUI2020" min='0' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">EUI_Quartile__Energy_Ranking2020</label>
+            <input class="form-control" type="text" name="EUI_Quartile__Energy_Ranking2020"
+                placeholder="EUI_Quartile__Energy_Ranking2020" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">EUI2021_</label>
+            <input class="form-control" type="number" name="EUI2021_"
+                placeholder="EUI2021_" min='0' max='1000000000' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">EUI_Quartile__Energy_Ranking_2021</label>
+            <input class="form-control" type="text" name="EUI_Quartile__Energy_Ranking_2021"
+                placeholder="EUI_Quartile__Energy_Ranking_2021" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">EUI_Quartile__Energy_Ranking_2022</label>
+            <input class="form-control" type="text" name="EUI_Quartile__Energy_Ranking_2022"
+                placeholder="EUI_Quartile__Energy_Ranking_2022" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">TOP_CSC_Year</label>
+            <input class="form-control" type="number" name="TOP_CSC_Year"
+                placeholder="TOP_CSC_Year" min='0' max='100000' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Award__Green_Non_Green_</label>
+            <input class="form-control" type="text" name="Award__Green_Non_Green_"
+                placeholder="Award__Green_Non_Green_" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Green_Mark_Version</label>
+            <input class="form-control" type="text" name="Green_Mark_Version"
+                placeholder="Green_Mark_Version" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">GFA</label>
+            <input class="form-control" type="number" name="GFA"
+                placeholder="GFA" min='0' max='10000000' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">AC_Area</label>
+            <input class="form-control" type="number" name="AC_Area"
+                placeholder="AC_Area" min='0' max='10000000' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">AC_Area_Percentage</label>
+            <input class="form-control" type="text" name="AC_Area_Percentage"
+                placeholder="AC_Area_Percentage" min='0' max='10000' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">No_Of_Hotel_Room</label>
+            <input class="form-control" type="number" name="No_Of_Hotel_Room"
+                placeholder="No_Of_Hotel_Room" min='0' max='10000000' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">AC_Type</label>
+            <input class="form-control" type="str" name="AC_Type"
+                placeholder="AC_Type" min='0' max='1000000' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Age__of_Chiller</label>
+            <input class="form-control" type="number" name="Age__of_Chiller"
+                placeholder="Age__of_Chiller" min='0' max='10000000' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Aircon_system_efficiency__kW_RT_</label>
+            <input class="form-control" type="number" name="Aircon_system_efficiency__kW_RT_"
+                placeholder="Aircon_system_efficiency__kW_RT_" min='0' max='10000000' />
+        </div>
+        <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Predict" required />
+        </div>
+    </form>
+    <h2>
+       THE  prediction is {{results}}
+    </h2>
+   <body>
+</html>
