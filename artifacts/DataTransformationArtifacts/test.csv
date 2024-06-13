@@ -1,0 +1,290 @@
+Building_Type,Main_Function,Building_Size,EUI2020,EUI_Quartile__Energy_Ranking2020,EUI2021_,EUI_Quartile__Energy_Ranking_2021,EUI2022_,EUI_Quartile__Energy_Ranking_2022,TOP_CSC_Year,Award__Green_Non_Green_,Green_Mark_Version,GFA,AC_Area,AC_Area_Percentage,No_Of_Hotel_Room,AC_Type,Age__of_Chiller,Aircon_system_efficiency__kW_RT_
+Commercial Building,Hotel,,331.0,Bottom Quartile,311,Bottom Quartile,347,Bottom Quartile,2011,GoldPlus,New Building for Non-Residential buildings (version 3),"18,986","18,000",95%,888,Water Cooled Chilled Water Plant,11.0,0.7
+Commercial Building,Retail,Medium,167.0,Top Quartile,138,Top Quartile,138,Top Quartile,1983,,,"5,338","5,000",94%,0,Air Cooled Chilled Water Plant,0.0,0.0
+Commercial Building,Retail,Large,115.0,Top Quartile,118,Top Quartile,118,Top Quartile,1999,,,"29,798","7,800",26%,0,Others,0.0,0.0
+Commercial Building,Office,Large,197.0,3rd Quartile,182,3rd Quartile,184,3rd Quartile,1998,GoldPlus,Existing Non-Residental Buildings ENRB: 2017,"41,363","28,100",68%,0,Water Cooled Chilled Water Plant,2.0,0.599
+Commercial Building,Office,,0.0,,0,,0,,1911,,,599,504,84%,0,Others,0.0,0.0
+Sports & Recreation Centre,Recreation Club,,91.0,,96,,111,,2017,Certified,New Building for Non-Residential buildings (version 4.1),"5,273",170,3%,0,Others,0.0,0.0
+Commercial Building,Office,Large,90.0,Top Quartile,95,Top Quartile,100,Top Quartile,2019,Platinum,New Building for Non-Residential buildings (version 4.1),"21,595","12,000",56%,0,Water Cooled Chilled Water Plant,4.0,0.0
+Commercial Building,Mixed Development,Small,191.18,,0,,0,,2016,Legislated,,"13,284",0,0%,0,,2.0,0.0
+Commercial Building,Office,Medium,131.0,2nd Quartile,129,2nd Quartile,129,2nd Quartile,1978,,,"12,756","12,992",102%,0,Water Cooled Chilled Water Plant,35.0,0.0
+Commercial Building,Office,Medium,206.0,,182,,226,,2012,,,"3,809","1,000",26%,0,District Cooling System (DCS),0.0,0.0
+Commercial Building,Office,Large,0.0,,31,,70,,2021,,,"19,102","16,784",88%,0,District Cooling System (DCS),0.0,0.0
+Commercial Building,Retail,Small,303.6,,0,,0,,1988,,,"6,154",0,0%,0,,3.0,0.0
+Commercial Building,Office,Large,145.51,,0,,0,,2012,Platinum,Existing Building for Non-Residential buildings (version 3),"27,069",0,0%,0,,6.0,0.0
+Commercial Building,Retail,Medium,145.0,Top Quartile,155,Top Quartile,140,Top Quartile,1982,Gold,Existing Building for Non-Residential buildings (version 3),"11,356","11,070",97%,0,Water Cooled Chilled Water Plant,0.0,0.0
+Commercial Building,Office,Small,53.23,,0,,0,,2001,,,"7,574",0,0%,0,,16.0,0.0
+Commercial Building,Hotel,Small,228.42,,0,,0,,2015,Legislated,,"13,742",0,0%,0,,5.0,0.0
+Commercial Building,Office,Large,65.27,,0,,0,,2017,Platinum,Existing Building for Non-Residential buildings (version 3),"26,248",0,0%,0,,4.0,0.0
+Commercial Building,Office,Medium,117.0,2nd Quartile,132,2nd Quartile,152,2nd Quartile,2017,Gold,New Building for Non-Residential buildings (version 4.1),"3,868","2,800",72%,0,Water Cooled Chilled Water Plant,0.0,0.0
+Commercial Building,Hotel,,195.0,2nd Quartile,179,Top Quartile,207,2nd Quartile,1987,Platinum,Existing Building for Non-Residential buildings (version 3),"25,857","25,857",100%,445,Water Cooled Chilled Water Plant,12.0,0.59
+Commercial Building,Office,Medium,0.0,,0,,35,Top Quartile,2022,,,"14,673","11,262",77%,0,Water Cooled Chilled Water Plant,1.0,0.0
+Commercial Building,Office,Medium,222.0,3rd Quartile,209,3rd Quartile,217,2nd Quartile,1974,,,"5,711","5,711",100%,0,Water-Cooled Package Units,0.0,0.0
+Commercial Building,Office,Medium,203.0,3rd Quartile,202,3rd Quartile,215,2nd Quartile,1980,Gold,Existing Building for Non-Residential buildings (version 3),"14,787","18,000",122%,0,Water Cooled Chilled Water Plant,6.0,0.77
+Commercial Building,Office,,0.0,,0,,0,,2010,,,"4,605","4,134",90%,0,Others,0.0,0.0
+Commercial Building,Office,Omit,482.91,,0,,0,,2000,GoldPlus,Existing Building for Non-Residential buildings (version 3),"42,570",0,0%,0,,2.0,0.0
+Commercial Building,Office,Large,185.36,,0,,0,,1997,,,"37,923",0,0%,0,,4.0,0.0
+Commercial Building,Retail,Small,512.28,,0,,0,,1996,,,"9,900",0,0%,0,,1.0,0.0
+Commercial Building,Retail,Medium,216.0,Top Quartile,227,Top Quartile,230,Top Quartile,1980,,,"5,411","3,589",66%,0,Water Cooled Chilled Water Plant,34.0,0.0
+Commercial Building,Hotel,,294.0,Bottom Quartile,308,Bottom Quartile,277,3rd Quartile,2011,Platinum,Existing Building for Non-Residential buildings (version 3),"5,740",17,0%,251,Water-Cooled Package Units,0.0,0.0
+Commercial Building,Office,Large,204.0,3rd Quartile,212,Bottom Quartile,199,3rd Quartile,2003,Gold,Existing Non-Residental Buildings ENRB: 2017,"35,533","26,752",75%,0,Water Cooled Chilled Water Plant,2.0,0.59
+Healthcare Facility,Community Hospital/ Nursing Home,,106.0,,100,,110,,1986,,,"6,056","1,602",26%,0,Others,0.0,0.0
+Commercial Building,Office,Large,256.61,,0,,0,,2013,Platinum,Existing Building for Non-Residential buildings (version 3),"22,495",0,0%,0,,11.5,0.0
+Commercial Building,Office,Large,98.0,Top Quartile,97,Top Quartile,106,Top Quartile,1986,Platinum,GM:2021 In Operation,"49,122","30,300",62%,0,Water Cooled Chilled Water Plant,4.0,0.58
+Commercial Building,Office,Medium,0.0,,199,3rd Quartile,207,2nd Quartile,2021,GoldPlus,Existing Non-Residential Buildings (RECERT 2017),"11,015","7,800",71%,0,Others,0.0,0.0
+Commercial Building,Retail,Medium,244.0,2nd Quartile,293,2nd Quartile,283,2nd Quartile,2018,,,"5,300","5,000",94%,0,Others,0.0,0.0
+Commercial Building,Retail,Large,301.03,,0,,0,,1986,,,"40,064",0,0%,0,,16.0,0.0
+Commercial Building,Office,Medium,149.0,,153,,156,,2015,Platinum,New Building for Non-Residential buildings (version 4),"12,767","10,352",81%,0,District Cooling System (DCS),0.0,0.0
+Commercial Building,Office,Large,217.0,Bottom Quartile,214,Bottom Quartile,203,3rd Quartile,2001,Platinum,Existing Building for Non-Residential buildings (version 3),"1,06,793","27,600",26%,0,Water Cooled Chilled Water Plant,3.0,0.52
+Commercial Building,Hotel,Large,153.17,,0,,0,,2011,Gold,New Building for A/C buildings (version 2),"18,881",0,0%,0,,10.1,0.0
+Commercial Building,Hotel,Large,244.08,,0,,0,,2012,GoldPlus,New Building for Non-Residential buildings (version 3),"18,975",0,0%,0,,7.0,0.0
+Commercial Building,Office,Large,242.0,Bottom Quartile,243,Bottom Quartile,248,Bottom Quartile,1970,Gold,Existing Building for Non-Residential buildings (version 3),"20,999","18,900",90%,0,Water Cooled Chilled Water Plant,13.0,0.526
+Commercial Building,Office,Large,87.0,Top Quartile,80,Top Quartile,77,Top Quartile,2005,Platinum,Existing Building for Non-Residential buildings (version 3),"1,33,192","57,969",44%,0,Water Cooled Chilled Water Plant,5.0,1.6049
+Commercial Building,Office,Large,128.02,,0,,0,,2000,Platinum,Existing Building for Non-Residential buildings (version 2.1),"56,527",0,0%,0,,6.0,0.0
+Commercial Building,Office,,0.0,,0,,0,,2015,Platinum,New Building for Non-Residential buildings (version 3),"71,830","67,523",94%,0,Water Cooled Chilled Water Plant,7.0,0.85
+Commercial Building,Mixed Development,,170.0,2nd Quartile,209,2nd Quartile,227,3rd Quartile,2019,GoldPlus,Non-Residential Buildings NRB: 2015,"22,162","10,476",47%,318,Water Cooled Chilled Water Plant,3.0,0.65
+Commercial Building,Office,Small,287.08,,0,,0,,2000,,,"8,625",0,0%,0,,0.0,0.0
+Commercial Building,Retail,Large,309.0,2nd Quartile,330,2nd Quartile,367,3rd Quartile,2012,Gold,GM:2021 In Operation,"62,000","48,097",78%,0,Water Cooled Chilled Water Plant,12.0,0.0
+Commercial Building,Office,Large,188.0,3rd Quartile,182,3rd Quartile,180,3rd Quartile,1999,GoldPlus,Existing Non-Residental Buildings ENRB: 2017,"1,62,134","1,53,490",95%,0,Water Cooled Chilled Water Plant,2.0,0.62
+Commercial Building,Hotel,Large,202.58,,0,,0,,2015,Platinum,New Building for Non-Residential buildings (version 4.1),"19,147",0,0%,0,,4.0,0.0
+Commercial Building,Retail,Large,408.6,,0,,0,,2011,GoldPlus,New Building for Non-Residential buildings (version 3),"28,463",0,0%,0,,0.0,0.0
+Commercial Building,Office,Large,447.36,,0,,0,,1988,Platinum,Existing Building for Non-Residential buildings (version 3),"17,284",0,0%,0,,1.0,0.0
+Educational Institution,Private School,,178.0,,197,,210,,1998,,Existing Building for Non-Residential buildings (version 3),"5,656","9,205",95%,0,Others,0.0,0.0
+Commercial Building,Hotel,Small,203.17,,0,,0,,2013,,,"2,321",0,0%,0,,7.0,0.0
+Commercial Building,Retail,Large,145.65,,0,,0,,1973,,,"66,479",0,0%,0,,16.0,0.0
+Commercial Building,Office,Medium,90.0,Top Quartile,27,Top Quartile,179,2nd Quartile,1997,,,"9,381","6,944",74%,0,Air Cooled Chilled Water Plant,0.0,0.0
+Commercial Building,Office,Small,133.9,,0,,0,,2004,Platinum,Existing Building for Non-Residential buildings (version 3),"10,720",0,0%,0,,17.0,0.0
+Commercial Building,Office,Large,127.0,2nd Quartile,128,2nd Quartile,137,2nd Quartile,1984,,,"66,408","55,000",83%,0,Water Cooled Chilled Water Plant,6.0,0.65
+Commercial Building,Office,Medium,135.0,2nd Quartile,131,2nd Quartile,148,2nd Quartile,1991,Platinum,Existing Non-Residental Buildings ENRB: 2017,"11,212","10,239",91%,0,Water Cooled Chilled Water Plant,1.0,0.65
+Commercial Building,Retail,Medium,152.0,Top Quartile,152,Top Quartile,149,Top Quartile,1984,,,"11,608","11,608",100%,0,Water-Cooled Package Units,0.0,0.0
+Commercial Building,Hotel,Large,215.39,,0,,0,,2017,,,"29,553",0,0%,0,,3.0,0.0
+"Civic, Community & Cultural Institution",Community Institution,,290.0,,260,,333,,2020,,,"6,835","5,326",78%,0,Others,0.0,0.0
+Commercial Building,Office,Large,85.0,Top Quartile,82,Top Quartile,88,Top Quartile,2009,GoldPlus,Existing Non-Residential Buildings (RECERT 2017),"41,137","40,137",98%,0,Water Cooled Chilled Water Plant,14.0,0.0
+Commercial Building,Office,Medium,134.0,2nd Quartile,106,Top Quartile,107,Top Quartile,2003,Platinum,GM:2021 In Operation,"10,720","8,988",84%,0,Water-Cooled Package Units,0.0,1.63
+Commercial Building,Office,Small,167.28,,0,,0,,1998,Platinum,Existing Building for Non-Residential buildings (version 3),"10,852",0,0%,0,,4.0,0.0
+Commercial Building,Office,Large,125.0,2nd Quartile,122,2nd Quartile,126,2nd Quartile,2002,Platinum,Existing Non-Residental Buildings ENRB: 2017,"41,908","38,443",92%,0,Water Cooled Chilled Water Plant,8.0,0.59
+Commercial Building,Office,Large,184.46,,0,,0,,1979,Platinum,Existing Building for Non-Residential buildings (version 3),"1,69,727",0,0%,0,,11.0,0.0
+Commercial Building,Office,Large,100.6,,0,,0,,2000,Certified,Existing Non-Residental Buildings ENRB: 2017,"18,122",0,0%,0,,18.0,0.0
+Commercial Building,Retail,Large,122.47,,0,,0,,1978,Gold,Existing Building for Non-Residential buildings (version 3),"29,985",0,0%,0,,3.0,0.0
+Commercial Building,Office,Large,217.0,Bottom Quartile,205,Bottom Quartile,209,Bottom Quartile,2000,Platinum,Existing Building for Non-Residential buildings (version 3),"1,87,345","1,22,472",65%,0,Water Cooled Chilled Water Plant,10.0,0.65
+Commercial Building,Hotel,Large,229.96,,0,,0,,1998,,,"30,793",0,0%,0,,22.0,0.0
+Commercial Building,Office,Medium,161.0,3rd Quartile,142,2nd Quartile,150,2nd Quartile,1995,,,"10,403","8,299",80%,0,Air Cooled Chilled Water Plant,0.0,1.13
+Commercial Building,Hotel,Small,140.64,,0,,0,,1980,,,"8,211",0,0%,0,,4.0,0.0
+Commercial Building,Office,Small,88.22,,0,,0,,2020,,,"18,008",0,0%,0,,1.0,0.0
+Commercial Building,Office,Small,227.26,,0,,0,,2013,GoldPlus,Existing Building for Non-Residential buildings (version 3),"13,121",0,0%,0,,4.0,0.0
+Commercial Building,Office,Large,185.0,,179,,172,,2011,Platinum,Existing Building for Non-Residential buildings (version 3),"95,992","85,783",89%,0,District Cooling System (DCS),0.0,0.0
+Commercial Building,Retail,Large,460.46,,0,,0,,1995,GoldPlus,Existing Building for Non-Residential buildings (version 3),"47,065",0,0%,0,,8.0,0.0
+"Civic, Community & Cultural Institution",Civic Institution,,189.0,,165,,167,,1987,Gold,Existing Non-Residental Buildings ENRB: 2017,"12,574","81,731",650%,0,Others,0.0,0.0
+Healthcare Facility,Polyclinic/ Private Clinic,,189.0,,168,,158,,2012,Platinum,Existing Non-Residental Buildings ENRB: 2017,"5,314","3,864",73%,0,Water Cooled Chilled Water Plant,0.0,0.531
+Commercial Building,Office,,0.0,,0,,0,,2011,Platinum,Existing Building for Non-Residential buildings (version 3),"61,999","53,783",87%,0,District Cooling System (DCS),0.0,0.0
+Commercial Building,Office,Large,105.73,,0,,0,,1985,,,"16,815",0,0%,0,,5.0,0.0
+Commercial Building,Office,Small,161.85,,0,,0,,2000,Gold,Existing Building for Non-Residential buildings (version 3),"11,427",0,0%,0,,0.0,0.0
+Commercial Building,Office,Large,142.28,,0,,0,,1982,,,"15,153",0,0%,0,,15.0,0.0
+Commercial Building,Office,Large,173.0,3rd Quartile,166,3rd Quartile,171,3rd Quartile,1979,Gold,Existing Non-Residential Buildings (RECERT 2017),"75,079","50,258",67%,0,Water Cooled Chilled Water Plant,12.0,0.79
+Commercial Building,Office,Small,125.38,,0,,0,,2001,,,"10,700",0,0%,0,,1.0,0.0
+Healthcare Facility,Hospital,,270.0,,275,,267,,2001,Certified,Existing Building for Non-Residential buildings (version 3),"49,272","39,371",80%,0,Water Cooled Chilled Water Plant,6.0,0.65
+Commercial Building,Mixed Development,,153.0,Top Quartile,181,2nd Quartile,210,2nd Quartile,2017,,,"5,036","4,800",95%,0,Air Cooled Chilled Water Plant,0.0,0.0
+Commercial Building,Mixed Development,Omit,219.98,,0,,0,,1968,Gold,Existing Building for Non-Residential buildings (version 3),"72,925",0,0%,0,,0.0,0.0
+Commercial Building,Office,Small,90.78,,0,,0,,2017,Gold,New Building for Non-Residential buildings (version 4.1),"5,000",0,0%,0,,2.0,0.0
+Commercial Building,Mixed Development,,183.0,2nd Quartile,183,2nd Quartile,186,2nd Quartile,1975,,,"7,811","6,300",81%,0,Water-Cooled Package Units,0.0,0.0
+Commercial Building,Office,Large,173.0,3rd Quartile,175,3rd Quartile,178,3rd Quartile,1997,GoldPlus,Existing Building for Non-Residential buildings (version 3),"17,839","7,821",44%,0,Water Cooled Chilled Water Plant,16.0,0.642
+Commercial Building,Office,Large,302.0,Bottom Quartile,296,Bottom Quartile,301,Bottom Quartile,1953,,,"15,480","15,480",100%,0,Others,0.0,0.0
+Commercial Building,Hotel,,228.0,3rd Quartile,265,3rd Quartile,283,3rd Quartile,2015,,,"13,742","12,690",92%,488,Others,0.0,0.0
+Commercial Building,Office,Large,296.03,,0,,0,,1997,,,"15,551",0,0%,0,,6.0,0.0
+Commercial Building,Office,Large,134.0,2nd Quartile,143,2nd Quartile,144,2nd Quartile,2016,,,"28,100","19,300",69%,0,Water Cooled Chilled Water Plant,18.0,0.0
+Commercial Building,Mixed Development,Large,104.02,,0,,0,,1986,Gold,Existing Building for Non-Residential buildings (version 2.1),"26,881",0,0%,0,,2.0,0.0
+Commercial Building,Office,Medium,138.0,2nd Quartile,119,2nd Quartile,118,2nd Quartile,1993,,,"5,824","4,070",70%,0,Air Cooled Chilled Water Plant,0.0,0.0
+Commercial Building,Retail,Large,124.0,Top Quartile,120,Top Quartile,121,Top Quartile,1983,,,"47,478","22,804",48%,0,Water Cooled Chilled Water Plant,6.0,0.0
+Commercial Building,Hotel,,296.0,Bottom Quartile,313,Bottom Quartile,338,Bottom Quartile,2014,Platinum,GM:2021 In Operation,"15,237","15,237",100%,386,Water Cooled Chilled Water Plant,10.0,0.622
+Commercial Building,Office,Small,143.02,,0,,0,,2001,,,"10,555",0,0%,0,,5.0,0.0
+Commercial Building,Office,Large,212.22,,0,,0,,1999,Platinum,Existing Building for Non-Residential buildings (version 3),"38,325",0,0%,0,,5.0,0.0
+Commercial Building,Mixed Development,Omit,230.81,,0,,0,,1997,,,"1,35,183",0,0%,0,,10.0,0.0
+Commercial Building,Hotel,,272.0,Bottom Quartile,323,Bottom Quartile,343,Bottom Quartile,2008,Certified,Existing Building for Non-Residential buildings (version 2.1),"6,086","5,400",89%,140,Water-Cooled Package Units,0.0,0.0
+Healthcare Facility,Community Hospital/ Nursing Home,,73.0,,83,,77,,2019,,,"8,534","2,837",33%,0,Others,0.0,0.0
+Commercial Building,Office,Medium,2.0,Top Quartile,30,Top Quartile,42,Top Quartile,1984,,,"7,597","2,170",29%,0,Others,0.0,0.0
+"Civic, Community & Cultural Institution",Cultural Institution,,157.0,,165,,110,,2015,GoldPlus,GM:2021 In Operation,"64,469","60,980",95%,0,Water Cooled Chilled Water Plant,8.0,0.643
+Commercial Building,Office,,0.0,,0,,0,,2008,GoldPlus,Existing Non-Residential Buildings (RECERT 2017),"27,611","26,341",95%,0,District Cooling System (DCS),0.0,0.05
+Healthcare Facility,Specialist Clinic,,0.0,,0,,0,,2003,,,"9,753","6,000",62%,94,Air Cooled Chilled Water Plant,0.0,0.0
+Commercial Building,Office,Omit,641.83,,0,,0,,2008,GoldPlus,Existing Building for Non-Residential buildings (version 3),"1,70,856",0,0%,0,,12.2,0.0
+Sports & Recreation Centre,Sports Complex,,0.0,,0,,0,,1990,,,"2,072",100,5%,0,Others,0.0,0.0
+Commercial Building,Retail,Large,374.96,,0,,0,,2014,Platinum,New Building for Non-Residential buildings (version 3),"58,369",0,0%,0,,5.0,0.0
+Commercial Building,Hotel,Small,242.77,,0,,0,,2010,,,"11,050",0,0%,0,,6.0,0.0
+Commercial Building,Hotel,Small,305.93,,0,,0,,2011,,,"10,453",0,0%,0,,7.0,0.0
+Commercial Building,Office,Large,188.57,,0,,0,,2004,GoldPlus,Existing Building for Non-Residential buildings (version 2.1),"51,661",0,0%,0,,15.0,0.0
+Commercial Building,Office,Large,277.19,,0,,0,,1998,Certified,Existing Non-Residental Buildings ENRB: 2017,"32,629",0,0%,0,,2.0,0.0
+Commercial Building,Hotel,,165.0,Top Quartile,154,Top Quartile,164,Top Quartile,1971,Gold,Existing Building for Non-Residential buildings (version 3),"23,554","21,262",90%,342,Water Cooled Chilled Water Plant,6.0,0.68
+Commercial Building,Office,Large,122.0,,0,,0,,2002,Gold,Existing Building for Non-Residential buildings (version 3),"47,410",0,0%,0,,5.35,0.0
+Commercial Building,Mixed Development,Large,233.38,,0,,0,,1993,Gold,Existing Building for Non-Residential buildings (version 3),"43,280",0,0%,0,,4.0,0.0
+Commercial Building,Hotel,,0.0,Bottom Quartile,0,Bottom Quartile,281,3rd Quartile,2022,,,"43,360","17,612",41%,128,Water Cooled Chilled Water Plant,12.0,0.0
+Commercial Building,Office,Large,215.47,,0,,0,,2016,Platinum,New Building for Non-Residential buildings (version 4.1),"1,20,268",0,0%,0,,4.0,0.0
+Commercial Building,Office,Large,286.52,,0,,0,,1989,,,"32,079",0,0%,0,,17.0,0.0
+Commercial Building,Mixed Development,Small,167.05,,0,,0,,2013,Gold,New Building for Non-Residential buildings (version 4),"6,256",0,0%,0,,7.0,0.0
+Commercial Building,Office,Medium,117.0,2nd Quartile,105,Top Quartile,111,2nd Quartile,1984,,,"11,950","18,945",159%,0,Water Cooled Chilled Water Plant,38.0,0.0
+Commercial Building,Retail,Large,242.0,3rd Quartile,262,3rd Quartile,276,3rd Quartile,1996,Gold,Existing Non-Residential Buildings (RECERT 2017),"38,276","28,985",76%,0,District Cooling System (DCS),0.0,0.67
+Commercial Building,Office,Large,74.72,,0,,0,,2018,,,"32,383",0,0%,0,,2.0,0.0
+Commercial Building,Hotel,,243.0,,261,,283,,2010,Platinum,Existing Building for Non-Residential buildings (version 3),"2,60,570","2,60,570",100%,2561,District Cooling System (DCS),0.0,0.0
+Healthcare Facility,Polyclinic/ Private Clinic,,177.0,,181,,181,,1991,,,"5,561","2,120",38%,0,Others,0.0,0.0
+Commercial Building,Office,Large,267.0,Bottom Quartile,236,Bottom Quartile,210,Bottom Quartile,2000,Platinum,Existing Building for Non-Residential buildings (version 3),"75,021","69,037",92%,0,Water Cooled Chilled Water Plant,23.0,3.617
+Commercial Building,Retail,Medium,313.0,3rd Quartile,316,2nd Quartile,276,2nd Quartile,1984,,,"5,369","5,321",99%,0,Others,0.0,1.34
+Commercial Building,Retail,Large,425.0,3rd Quartile,458,3rd Quartile,478,Bottom Quartile,2009,Platinum,Existing Non-Residential Buildings (RECERT 2017),"39,936","35,852",90%,0,Water Cooled Chilled Water Plant,9.0,0.64
+Commercial Building,Office,Medium,55.0,Top Quartile,49,Top Quartile,39,Top Quartile,2001,,,"7,304","2,658",36%,0,Others,0.0,1.11
+Commercial Building,Office,Small,61.53,,0,,0,,1992,,,"10,841",0,0%,0,,15.0,0.0
+Commercial Building,Office,Large,147.0,2nd Quartile,147,2nd Quartile,154,2nd Quartile,2002,Gold,Existing Building for Non-Residential buildings (version 2.1),"40,061","34,377",86%,0,Water Cooled Chilled Water Plant,9.0,0.809
+Commercial Building,Office,Large,290.53,,0,,0,,2015,Platinum,New Building for Non-Residential buildings (version 3),"33,123",0,0%,0,,0.0,0.0
+Commercial Building,Office,Small,157.23,,0,,0,,2020,GoldPlus,Existing Building (version 2),"68,233",0,0%,0,,2.0,0.0
+Sports & Recreation Centre,Recreation Club,,308.0,,335,,388,,1900,Certified,Existing Building for Non-Residential buildings (version 3),"10,707","7,167",67%,16,Water Cooled Chilled Water Plant,2.0,0.705
+Commercial Building,Retail,Large,571.17,,0,,0,,1998,,,"18,396",0,0%,0,,1.0,0.0
+Healthcare Facility,Specialist Clinic,,343.0,,361,,349,,1990,,,"19,445","16,623",85%,0,Water Cooled Chilled Water Plant,22.0,0.0
+Commercial Building,Retail,Small,146.2,,0,,0,,1982,Gold,Existing Building for Non-Residential buildings (version 3),"11,256",0,0%,0,,1.0,0.0
+Commercial Building,Retail,Small,304.15,,0,,0,,2018,Legislated,,"4,662",0,0%,0,,2.0,0.0
+Commercial Building,Office,Large,130.4,,0,,0,,2002,Platinum,Existing Building for Non-Residential buildings (version 3),"26,137",0,0%,0,,2.0,0.0
+Commercial Building,Mixed Development,Large,187.74,,0,,0,,1979,Gold,Existing Building for Non-Residential buildings (version 3),"19,209",0,0%,0,,1.0,0.0
+Sports & Recreation Centre,Sports Complex,,84.0,,84,,86,,2006,Gold,Existing Non-Residental Buildings ENRB: 2017,"29,752","1,735",6%,0,District Cooling System (DCS),0.0,0.0
+Commercial Building,Office,Small,64.55,,0,,0,,2017,,,"5,594",0,0%,0,,1.0,0.0
+Commercial Building,Mixed Development,,141.0,Top Quartile,148,Top Quartile,158,Top Quartile,1980,Gold,Existing Building for Non-Residential buildings (version 3),"48,055","45,000",94%,0,Water Cooled Chilled Water Plant,4.0,63.0
+Commercial Building,Retail,Large,257.15,,0,,0,,1997,,,"24,646",0,0%,0,,5.0,0.0
+Commercial Building,Hotel,,203.0,2nd Quartile,218,2nd Quartile,255,3rd Quartile,1900,Gold,GM:2021 In Operation,"29,616","26,654",90%,233,Water Cooled Chilled Water Plant,7.0,0.0
+Commercial Building,Office,Large,129.0,,116,,110,,2009,Gold,Existing Non-Residential Buildings (RECERT 2017),"32,504","32,504",100%,0,District Cooling System (DCS),0.0,0.0
+Commercial Building,Office,Large,240.0,Bottom Quartile,236,Bottom Quartile,229,Bottom Quartile,1990,GoldPlus,Existing Building for Non-Residential buildings (version 3),"15,159","14,547",96%,0,Water Cooled Chilled Water Plant,9.0,0.6
+Commercial Building,Mixed Development,,192.0,2nd Quartile,208,2nd Quartile,232,3rd Quartile,1988,,,"23,500","21,150",90%,0,Water Cooled Chilled Water Plant,1.0,1.02
+Commercial Building,Office,,0.0,,0,,0,,2008,,,"4,292","3,523",82%,0,Others,0.0,0.0
+Commercial Building,Retail,Large,260.0,2nd Quartile,287,2nd Quartile,277,2nd Quartile,1987,Gold,GM:2021 In Operation,"36,325","28,453",78%,0,Water Cooled Chilled Water Plant,8.0,0.64
+Commercial Building,Office,,0.0,,0,,0,,1931,,,"1,030","1,024",99%,0,Others,0.0,0.0
+Commercial Building,Office,Large,222.24,,0,,0,,1989,,,"34,560",0,0%,0,,1.0,0.0
+Commercial Building,Office,Small,151.12,,0,,0,,1992,,,"5,000",0,0%,0,,4.0,0.0
+Commercial Building,Office,Large,2.34,,0,,0,,1978,,,"4,17,496",0,0%,0,,7.0,0.0
+Commercial Building,Hotel,,244.0,3rd Quartile,241,3rd Quartile,217,2nd Quartile,2012,GoldPlus,Existing Non-Residential Buildings (RECERT 2017),"18,973","16,224",86%,313,Water Cooled Chilled Water Plant,11.0,0.697
+Commercial Building,Office,,0.0,,0,,0,,2001,,,"4,228","3,580",85%,0,Water-Cooled Package Units,0.0,0.0
+Sports & Recreation Centre,Recreation Club,,100.0,,81,,85,,2015,Platinum,GM:2021 In Operation,"21,188","12,276",58%,12,Water Cooled Chilled Water Plant,6.0,0.51
+Commercial Building,Office,Medium,152.0,3rd Quartile,147,2nd Quartile,157,2nd Quartile,2010,GoldPlus,Existing Building for Non-Residential buildings (version 2.1),"14,671","13,192",90%,0,Water Cooled Chilled Water Plant,13.0,0.0
+Commercial Building,Office,Medium,190.0,3rd Quartile,196,3rd Quartile,202,2nd Quartile,1999,,,"10,417","8,463",81%,0,Water Cooled Chilled Water Plant,6.0,0.638
+Commercial Building,Office,Medium,50.0,Top Quartile,41,Top Quartile,41,Top Quartile,1992,,,"14,406",0,0%,0,Others,0.0,0.0
+"Civic, Community & Cultural Institution",Cultural Institution,,199.0,,222,,233,,2000,GoldPlus,Existing Building for Non-Residential buildings (version 3),"16,448","8,98,097",5460%,0,Water Cooled Chilled Water Plant,0.0,0.71
+Commercial Building,Office,Small,116.85,,0,,0,,1999,,,"11,060",0,0%,0,,1.0,0.0
+Commercial Building,Industrial,Medium,362.0,Bottom Quartile,345,Bottom Quartile,326,Bottom Quartile,1986,Gold,Existing Non-Residential Buildings (RECERT 2017),"11,047","8,824",80%,0,Water Cooled Chilled Water Plant,12.0,0.696
+Commercial Building,Retail,Large,153.0,Top Quartile,150,Top Quartile,188,Top Quartile,1982,GoldPlus,Existing Building for Non-Residential buildings (version 3),"22,331","79,421",356%,0,Water Cooled Chilled Water Plant,7.0,0.53
+Healthcare Facility,Polyclinic/ Private Clinic,,132.0,,139,,128,,2013,,,"6,546","3,462",53%,0,Others,0.0,0.0
+Commercial Building,Mixed Development,,183.0,2nd Quartile,185,2nd Quartile,205,2nd Quartile,2017,Platinum,Existing Non-Residential Buildings (RECERT 2017),"1,00,047","44,614",45%,347,Water Cooled Chilled Water Plant,6.0,0.48
+Commercial Building,Hotel,Small,289.17,,0,,0,,2013,GoldPlus,New Building for Non-Residential buildings (version 4),"5,262",0,0%,0,,7.0,0.0
+Commercial Building,Office,Large,138.01,,0,,0,,1959,,,"22,975",0,0%,0,,3.0,0.0
+Commercial Building,Office,Large,183.0,3rd Quartile,185,3rd Quartile,186,3rd Quartile,1998,Platinum,Existing Non-Residential Buildings Re-Cert (GM:2021 In Operation),"1,02,898","81,652",79%,0,Water Cooled Chilled Water Plant,5.0,0.61
+Commercial Building,Office,Large,47.47,,0,,0,,2009,,,"20,211",0,0%,0,,8.0,0.0
+Commercial Building,Office,Small,242.37,,0,,0,,1984,,,"5,111",0,0%,0,,30.0,0.0
+Commercial Building,Mixed Development,Large,302.62,,0,,0,,2014,Platinum,New Building for Non-Residential buildings (version 3),"48,324",0,0%,0,,7.0,0.0
+Commercial Building,Hotel,Large,219.6,,0,,0,,1977,Gold,Existing Building for Non-Residential buildings (version 2.1),"26,657",0,0%,0,,2.0,0.0
+Commercial Building,Office,Small,805.56,,0,,0,,2003,Gold,New Building for Non-Residential buildings (version 4),"10,960",0,0%,0,,6.0,0.0
+Commercial Building,Hotel,Small,281.89,,0,,0,,2014,Platinum,New Building for Non-Residential buildings (version 4),"7,450",0,0%,0,,3.0,0.0
+Commercial Building,Hotel,Small,215.12,,0,,0,,2016,,,"10,194",0,0%,0,,10.0,0.0
+Commercial Building,Hotel,Large,270.09,,0,,0,,2012,Platinum,New Building for Non-Residential buildings (version 3),"29,227",0,0%,0,,7.0,0.0
+Commercial Building,Office,Large,65.0,Top Quartile,66,Top Quartile,62,Top Quartile,2002,Platinum,Existing Building for Non-Residential buildings (version 3),"26,248","21,823",83%,0,Water Cooled Chilled Water Plant,5.0,0.0
+"Civic, Community & Cultural Institution",Community Institution,,171.0,,173,,188,,2000,,,"14,576","11,809",81%,175,Water Cooled Chilled Water Plant,13.0,0.9
+Educational Institution,Univerisity,,159.0,,164,,183,,2014,,,"19,175","16,699",87%,0,Water Cooled Chilled Water Plant,20.0,0.0
+Commercial Building,Office,Large,226.0,Bottom Quartile,237,Bottom Quartile,240,Bottom Quartile,1993,Gold,Existing Building for Non-Residential buildings (version 3),"49,048","26,199",53%,0,Water Cooled Chilled Water Plant,12.0,0.601
+Commercial Building,Office,Large,210.0,3rd Quartile,196,3rd Quartile,194,3rd Quartile,1992,,,"16,105","16,000",99%,0,Others,0.0,0.0
+Commercial Building,Retail,Large,403.35,,0,,0,,1995,Platinum,Existing Building for Non-Residential buildings (version 3),"30,400",0,0%,0,,1.0,0.0
+Commercial Building,Office,Large,329.97,,0,,0,,1986,,,"27,810",0,0%,0,,11.0,0.0
+Commercial Building,Office,,0.0,,0,,0,,2008,GoldPlus,Existing Building for Non-Residential buildings (version 3),"17,652","11,887",67%,0,District Cooling System (DCS),0.0,0.05
+Commercial Building,Office,Medium,41.0,Top Quartile,31,Top Quartile,47,Top Quartile,2011,,,"2,853","2,125",74%,0,Others,0.0,0.0
+Commercial Building,Office,Small,82.84,,0,,0,,2014,Legislated,,"7,043",0,0%,0,,2.0,0.0
+Commercial Building,Retail,Large,522.0,Bottom Quartile,380,2nd Quartile,395,3rd Quartile,2010,,,954,911,95%,0,Water Cooled Chilled Water Plant,0.0,0.0
+Sports & Recreation Centre,Recreation Club,,0.0,,0,,118,,2022,GoldPlus,GM:2021 In Operation,"15,513",182,1%,0,Others,0.0,0.0
+Commercial Building,Hotel,,219.0,3rd Quartile,224,3rd Quartile,209,2nd Quartile,1999,,,"5,368","5,316",99%,117,Others,0.0,0.0
+Commercial Building,Retail,Medium,294.0,2nd Quartile,306,2nd Quartile,316,2nd Quartile,1993,,,"5,992","3,534",59%,0,Air Cooled Chilled Water Plant,0.0,0.0
+Commercial Building,Retail,Large,684.22,,0,,0,,2017,Legislated,,"20,546",0,0%,0,,2.0,0.0
+Commercial Building,Office,Small,165.29,,0,,0,,1994,,,"7,816",0,0%,0,,0.0,0.0
+Commercial Building,Office,Medium,242.0,Bottom Quartile,238,Bottom Quartile,220,2nd Quartile,1984,,,"5,111","2,100",41%,0,Water Cooled Chilled Water Plant,30.0,0.0
+Commercial Building,Office,Large,172.67,,0,,0,,1979,Gold,Existing Building for Non-Residential buildings (version 2.1),"75,079",0,0%,0,,9.0,0.0
+Commercial Building,Office,Large,166.0,3rd Quartile,157,3rd Quartile,156,2nd Quartile,1969,,,"16,450","16,350",99%,0,Water Cooled Chilled Water Plant,53.0,0.0
+Healthcare Facility,Community Hospital/ Nursing Home,,91.0,,85,,83,,2002,,,"5,788","1,007",17%,0,Others,0.0,0.0
+Commercial Building,Office,Medium,175.0,3rd Quartile,177,3rd Quartile,181,2nd Quartile,1998,GoldPlus,Existing Non-Residental Buildings ENRB: 2017,"10,638","8,697",82%,0,Others,0.0,0.0
+Commercial Building,Hotel,,181.0,Top Quartile,162,Top Quartile,174,Top Quartile,1971,,,"14,950","13,000",87%,240,Water Cooled Chilled Water Plant,8.0,0.83
+Commercial Building,Retail,Medium,890.0,Bottom Quartile,796,Bottom Quartile,285,2nd Quartile,2012,,,"9,821","8,500",87%,0,Air Cooled Chilled Water Plant,0.0,0.0
+Commercial Building,Retail,Small,293.97,,0,,0,,1993,,,"5,992",0,0%,0,,20.0,0.0
+Commercial Building,Office,Medium,65.0,Top Quartile,68,Top Quartile,70,Top Quartile,2017,,,"5,594","5,594",100%,0,Water Cooled Chilled Water Plant,1.0,0.0
+Commercial Building,Retail,Large,390.29,,0,,0,,2008,,,"20,713",0,0%,0,,12.0,0.0
+Sports & Recreation Centre,Recreation Club,,278.0,,288,,295,,1999,,,"17,245","15,660",91%,30,Water Cooled Chilled Water Plant,23.0,0.0
+Commercial Building,Retail,Medium,228.0,2nd Quartile,259,2nd Quartile,283,2nd Quartile,2016,,,"6,359",87,1%,0,Others,0.0,2.0
+Commercial Building,Hotel,Large,209.34,,0,,0,,2007,Platinum,Existing Building for Non-Residential buildings (version 3),"15,020",0,0%,0,,1.0,0.0
+Commercial Building,Hotel,Large,170.96,,0,,0,,1970,Platinum,Existing Building for Non-Residential buildings (version 3),"17,598",0,0%,0,,10.0,0.0
+Commercial Building,Office,Medium,102.0,Top Quartile,107,Top Quartile,103,Top Quartile,1983,,,"5,976","4,621",77%,0,Water-Cooled Package Units,0.0,0.0
+Commercial Building,Retail,Small,381.7,,0,,0,,1996,Gold,Existing Building for Non-Residential buildings (version 2.1),"11,820",0,0%,0,,7.0,0.0
+Sports & Recreation Centre,Recreation Club,,175.0,,181,,196,,2016,,,"19,995","10,568",53%,0,Water Cooled Chilled Water Plant,3.0,0.61
+Sports & Recreation Centre,Recreation Club,,86.0,,118,,138,,1982,,,"8,514","1,352",16%,15,Others,0.0,0.0
+Commercial Building,Retail,Small,338.49,,0,,0,,2000,,,"10,110",0,0%,0,,15.0,0.0
+Sports & Recreation Centre,Recreation Club,,91.0,,95,,97,,2006,,,"15,000","12,000",80%,0,District Cooling System (DCS),0.0,0.0
+Commercial Building,Office,Small,109.8,,0,,0,,2009,,,"5,111",0,0%,0,,4.0,0.0
+Commercial Building,Office,Large,83.41,,0,,0,,1982,Platinum,Existing Non-Residental Buildings ENRB: 2017,"25,879",0,0%,0,,12.0,0.0
+Educational Institution,Private School,,103.0,,79,,213,,2005,GoldPlus,,"9,642","19,000",76%,0,Others,0.0,0.0
+Commercial Building,Office,Small,89.54,,0,,0,,1982,,,"6,345",0,0%,0,,6.0,0.0
+Commercial Building,Office,Medium,430.0,Bottom Quartile,278,Bottom Quartile,290,Bottom Quartile,1992,,,"8,760",0,0%,0,Others,0.0,0.0
+Educational Institution,Private School,,0.0,,0,,76,,2022,,,"7,778","7,867",87%,0,Air Cooled Chilled Water Plant,0.0,0.0
+Healthcare Facility,Hospital,,247.0,,234,,235,,1993,Gold,New Building for Non-Residential buildings (version 4.1),"20,322","17,199",85%,0,Water Cooled Chilled Water Plant,7.0,0.0
+Commercial Building,Office,Large,34.0,,43,,39,,2003,Gold,Existing Building for Non-Residential buildings (version 2.1),"19,040","14,000",74%,0,District Cooling System (DCS),0.0,0.0
+Commercial Building,Office,Large,471.23,,0,,0,,1990,GoldPlus,Existing Building for Non-Residential buildings (version 3),"15,267",0,0%,0,,4.0,0.0
+Commercial Building,Office,Medium,54.0,Top Quartile,66,Top Quartile,64,Top Quartile,2017,,,"6,493","4,142",64%,0,Others,0.0,0.0
+Commercial Building,Office,Large,194.0,3rd Quartile,186,3rd Quartile,192,3rd Quartile,2006,GoldPlus,Existing Building for Non-Residential buildings (version 2.1),"50,310","41,621",83%,0,Water Cooled Chilled Water Plant,18.5,0.9
+Commercial Building,Mixed Development,Large,135.19,,0,,0,,1980,Gold,Existing Building for Non-Residential buildings (version 3),"50,051",0,0%,0,,1.0,0.0
+Commercial Building,Office,Medium,122.0,2nd Quartile,98,Top Quartile,117,2nd Quartile,1999,Platinum,Existing Non-Residental Buildings ENRB: 2017,"12,709","9,578",75%,0,Water Cooled Chilled Water Plant,21.0,0.552
+Commercial Building,Retail,Large,434.0,3rd Quartile,436,3rd Quartile,464,3rd Quartile,2014,Platinum,Existing Non-Residential Buildings (RECERT 2017),"29,000","25,040",86%,0,Water Cooled Chilled Water Plant,9.0,0.64
+Commercial Building,Office,Large,145.51,,0,,0,,1999,Gold,Existing Building for Non-Residential buildings (version 3),"17,815",0,0%,0,,5.0,0.0
+Commercial Building,Industrial,Large,329.0,Bottom Quartile,316,Bottom Quartile,288,Bottom Quartile,1981,,,"1,04,962","83,076",79%,0,Water Cooled Chilled Water Plant,5.0,0.72
+Commercial Building,Office,Large,121.0,Top Quartile,143,2nd Quartile,152,2nd Quartile,2017,GoldPlus,Existing Non-Residential Buildings (RECERT 2017),"64,562","52,918",82%,0,Water Cooled Chilled Water Plant,7.0,0.568
+Commercial Building,Retail,Large,333.65,,0,,0,,2010,Platinum,Existing Building for Non-Residential buildings (version 3),"3,43,000",0,0%,0,,10.0,0.0
+Commercial Building,Office,Small,1.61,,0,,0,,1988,,,"9,436",0,0%,0,,5.0,0.0
+Commercial Building,Retail,Large,256.0,2nd Quartile,269,2nd Quartile,298,2nd Quartile,1986,Gold,GM:2021 In Operation,"1,22,022","1,03,485",85%,0,Water Cooled Chilled Water Plant,15.0,0.645
+Commercial Building,Office,Small,245.27,,0,,0,,1981,,,"12,656",0,0%,0,,10.0,0.0
+Commercial Building,Retail,Large,416.07,,0,,0,,2009,GoldPlus,Existing Building for Non-Residential buildings (version 3),"35,386",0,0%,0,,11.0,0.0
+Commercial Building,Hotel,Small,179.93,,0,,0,,1993,Platinum,Existing Building for Non-Residential buildings (version 3),"11,426",0,0%,0,,6.0,0.0
+Commercial Building,Hotel,,148.0,Top Quartile,145,Top Quartile,135,Top Quartile,1988,Gold,Existing Non-Residental Buildings ENRB: 2017,"7,141","6,765",95%,130,Water Cooled Chilled Water Plant,5.0,0.65
+Commercial Building,Office,Small,75.07,,0,,0,,1930,,,"8,906",0,0%,0,,4.0,0.0
+Commercial Building,Office,Small,239.16,,0,,0,,1998,,,"11,080",0,0%,0,,17.0,0.0
+Commercial Building,Hotel,,267.0,3rd Quartile,260,3rd Quartile,283,3rd Quartile,2015,,,"8,140","7,815",96%,263,Others,0.0,0.0
+Commercial Building,Retail,Small,274.9,,0,,0,,2014,Gold,New Building for Non-Residential buildings (version 3),"9,333",0,0%,0,,7.0,0.0
+Commercial Building,Office,Small,216.27,,0,,0,,1980,,,"7,372",0,0%,0,,2.0,0.0
+Commercial Building,Office,Small,111.64,,0,,0,,1995,,,"7,433",0,0%,0,,2.0,0.0
+Commercial Building,Office,Medium,147.0,3rd Quartile,137,2nd Quartile,112,2nd Quartile,2009,GoldPlus,Existing Building for Non-Residential buildings (version 2.1),"11,520","10,260",89%,0,Others,0.0,0.0
+Commercial Building,Office,Large,114.19,,0,,0,,2019,Platinum,New Building for Non-Residential buildings (version 4.1),"1,03,444",0,0%,0,,1.0,0.0
+Educational Institution,Private School,,15.0,,21,,41,,2019,Gold,,0,"9,207",58%,0,Others,0.0,0.0
+Commercial Building,Office,Medium,314.0,Bottom Quartile,301,Bottom Quartile,225,2nd Quartile,1998,Gold,Existing Non-Residential Buildings (RECERT 2017),"7,600","7,419",98%,0,Water Cooled Chilled Water Plant,10.0,0.797
+Commercial Building,Hotel,,255.0,3rd Quartile,276,Bottom Quartile,291,Bottom Quartile,2016,,,"7,093","7,093",100%,300,Others,0.0,0.0
+Commercial Building,Retail,Large,349.0,2nd Quartile,355,2nd Quartile,355,2nd Quartile,1996,Platinum,Existing Building for Non-Residential buildings (version 3),"29,450","26,202",89%,0,Water Cooled Chilled Water Plant,6.0,0.579
+Commercial Building,Office,Large,68.0,Top Quartile,69,Top Quartile,72,Top Quartile,1999,,,"19,096","9,096",48%,0,Others,0.0,0.0
+Commercial Building,Hotel,,250.0,3rd Quartile,257,3rd Quartile,269,3rd Quartile,2008,,,"11,441","9,152",80%,126,Water Cooled Chilled Water Plant,15.0,0.0
+Commercial Building,Office,Large,146.0,,122,,132,,2009,,,"42,159","37,589",89%,0,District Cooling System (DCS),0.0,0.0
+Healthcare Facility,Hospital,,350.0,,347,,344,,1979,,,"55,097","54,958",100%,284,Water Cooled Chilled Water Plant,4.0,0.0
+Commercial Building,Office,Large,163.0,3rd Quartile,155,2nd Quartile,168,3rd Quartile,1995,Certified,Existing Non-Residential Buildings (RECERT 2017),"20,143","16,115",80%,0,Water-Cooled Package Units,0.0,0.65
+"Civic, Community & Cultural Institution",Community Institution,,119.0,,123,,128,,1993,,,"6,793",462,7%,0,Others,0.0,0.0
+Commercial Building,Office,Large,67.43,,0,,0,,2015,,,"16,720",0,0%,0,,12.0,0.0
+Commercial Building,Office,Small,131.89,,0,,0,,2009,,,"5,274",0,0%,0,,10.0,0.0
+Commercial Building,Office,Large,154.0,2nd Quartile,139,2nd Quartile,147,2nd Quartile,1997,Gold,Existing Building for Non-Residential buildings (version 2.1),"15,400","13,927",90%,0,Water Cooled Chilled Water Plant,25.0,0.0
+Healthcare Facility,Specialist Clinic,,216.0,,224,,271,,1988,,,"9,862","6,620",67%,0,Water Cooled Chilled Water Plant,26.0,0.0
+Commercial Building,Office,Omit,154.17,,0,,0,,2009,Platinum,Existing Building for Non-Residential buildings (version 3),"3,83,052",0,0%,0,,11.0,0.0
+Commercial Building,Mixed Development,,271.52,,0,,0,,2011,Gold,Existing Building for Non-Residential buildings (version 2.1),"40,450",0,0%,0,,9.0,0.0
+Educational Institution,Univerisity,,107.0,,125,,132,,1988,,,"10,063","1,503",15%,0,Water-Cooled Package Units,0.0,0.0
+Commercial Building,Mixed Development,,273.0,3rd Quartile,298,Bottom Quartile,323,Bottom Quartile,2017,,,"28,431","9,079",32%,250,Water Cooled Chilled Water Plant,6.0,0.664
+Commercial Building,Retail,Large,110.0,Top Quartile,116,Top Quartile,115,Top Quartile,1984,GoldPlus,Existing Building for Non-Residential buildings (version 3),"47,840","3,827",8%,0,Water Cooled Chilled Water Plant,5.0,0.561
+Commercial Building,Office,Medium,82.0,Top Quartile,83,Top Quartile,84,Top Quartile,2010,Certified,New Building for A/C buildings (version 2),"5,901",297,5%,0,Others,0.0,0.0
+Commercial Building,Mixed Development,Large,172.04,,0,,0,,1974,Gold,Existing Building for Non-Residential buildings (version 3),"49,701",0,0%,0,,3.0,0.0
+"Civic, Community & Cultural Institution",Civic Institution,,225.0,,217,,219,,1989,,,"7,860","6,360",81%,0,Others,0.0,0.0
+Commercial Building,Office,Large,78.09,,0,,0,,2010,,,"16,153",0,0%,0,,6.0,0.0
+Sports & Recreation Centre,Recreation Club,,105.0,,100,,106,,1997,,,"16,134",777,5%,0,Others,0.0,0.0
+Commercial Building,Retail,Large,236.08,,0,,0,,1997,,,"24,434",0,0%,0,,14.0,0.0
+Commercial Building,Office,Medium,25.0,Top Quartile,46,Top Quartile,52,Top Quartile,2020,Gold,Existing Non-Residential Buildings (RECERT 2017),"7,958","7,724",97%,0,Water-Cooled Package Units,0.0,0.0
+Commercial Building,Retail,Small,132.86,,0,,0,,2004,,,"10,700",0,0%,0,,10.0,0.0
+Commercial Building,Hotel,Large,185.5,,0,,0,,2015,Platinum,New Building for Non-Residential buildings (version 4.1),"32,600",0,0%,0,,5.0,0.0
+Commercial Building,Office,,0.0,,0,,0,,2002,Platinum,Existing Building for Non-Residential buildings (version 3),"16,986","14,936",88%,0,Water Cooled Chilled Water Plant,2.0,0.0
+Commercial Building,Office,Small,82.2,,0,,0,,2010,Certified,New Building for A/C buildings (version 2),"5,901",0,0%,0,,4.0,0.0
+Commercial Building,Retail,Large,437.0,3rd Quartile,469,3rd Quartile,481,Bottom Quartile,2010,GoldPlus,Existing Non-Residental Buildings ENRB: 2017,"87,523","74,448",85%,0,Water Cooled Chilled Water Plant,13.0,0.6629
+Commercial Building,Mixed Development,,225.0,3rd Quartile,200,2nd Quartile,196,2nd Quartile,2008,,,"28,907","19,536",68%,154,Water Cooled Chilled Water Plant,12.0,0.87
+Commercial Building,Retail,Large,124.2,,0,,0,,1979,GoldPlus,Existing Building for Non-Residential buildings (version 3),"42,262",0,0%,0,,0.0,0.0
+Commercial Building,Office,Large,37.8,,0,,0,,1994,Platinum,Existing Building for Non-Residential buildings (version 3),"46,218",0,0%,0,,5.0,0.0
+Commercial Building,Office,Medium,177.0,3rd Quartile,206,3rd Quartile,190,2nd Quartile,2018,,,"5,790","2,290",40%,0,Water-Cooled Package Units,0.0,0.0
+Commercial Building,Office,Large,183.93,,0,,0,,2005,,,"19,040",0,0%,0,,12.0,0.0
+Commercial Building,Mixed Development,,233.0,3rd Quartile,242,3rd Quartile,226,2nd Quartile,1993,Gold,Existing Non-Residential Buildings (RECERT 2017),"43,280","39,800",92%,0,Water Cooled Chilled Water Plant,13.0,0.691
+Commercial Building,Retail,Small,433.63,,0,,0,,1992,,,"5,574",0,0%,0,,20.0,0.0
+Commercial Building,Office,Medium,137.0,2nd Quartile,138,2nd Quartile,136,2nd Quartile,1975,,,"7,200","7,200",100%,0,Water Cooled Chilled Water Plant,12.0,0.0
+Commercial Building,Office,Large,144.0,2nd Quartile,148,2nd Quartile,162,3rd Quartile,1983,,,"28,835","28,835",100%,0,Water Cooled Chilled Water Plant,19.0,0.0
+Sports & Recreation Centre,Sports Complex,,174.0,,187,,182,,1970,,,"3,110",211,7%,0,Water-Cooled Package Units,0.0,0.0
+Commercial Building,Office,Medium,173.0,3rd Quartile,172,3rd Quartile,169,2nd Quartile,1996,,,"10,580","1,000",9%,0,Others,0.0,0.0
+Commercial Building,Hotel,Small,363.33,,0,,0,,1990,,,"13,752",0,0%,0,,9.0,0.0
+Sports & Recreation Centre,Recreation Club,,95.0,,102,,130,,2005,,,"9,610","6,000",62%,0,Others,0.0,0.0
