@@ -9,7 +9,7 @@ LOGS_FILE_NAME = "SIDFC.log"
 
 #Data Ingestion
 DATA_INGESTION_ROOT = "DataIngestionArtifacts"
-SOURCE_URL= "https://drive.google.com/file/d/1vIM4iYUO0INrK-iVUgPXABrwo8BZeDEY/view?usp=sharing"
+SOURCE_URL= "https://drive.google.com/file/d/1yunXLo-oXyGppKavYXaKuv5LOenW9eqb/view?usp=sharing"
 UNZIP_DIR= DATA_INGESTION_ROOT
 LOCAL_FILE_PATH = "building_energy.zip"
 UNZIP_DIR_CSV_DATA = "DataIngestionArtifacts"
