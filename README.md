@@ -23,38 +23,65 @@ Flexibility: Supports various data sources and model architectures, providing a 
 
 ## Project Structure:
 
-src/
+### src/
 init.py (empty): Marks this directory as a Python package.
-components/
+
+### components/
 data_ingestion.py: Contains functions for loading data from various sources.
+
 data_transformation.py: Implements data cleaning, preprocessing, and feature engineering.
+
 data_validation.py: Ensures data quality by checking for missing values, outliers, and schema adherence.
+
 data_evaluation.py: Defines metrics to evaluate model performance on unseen data.
+
 model_trainer.py: Handles training and saving machine learning models for energy prediction.
-utils/
+
+### utils/
+
 init.py (empty): Marks this directory as a Python package.
+
 common.py: Provides general utility functions used throughout the project.
-logger/
+
+### logger/
+
 init.py (empty): Marks this directory as a Python package.
+
 Potentially contains logging configuration and setup.
-exception/
+
+### exception/
+
 init.py (empty): Marks this directory as a Python package.
+
 Could include custom exception classes for handling errors.
-pipeline/
+
+### pipeline/
+
 init.py (empty): Marks this directory as a Python package.
+
 training_pipeline.py: Orchestrates the entire training process, including data preparation and model training.
+
 prediction_pipeline.py: Facilitates making predictions on new data using the trained model.
-constants/
+
+### constants/
+
 init.py (empty): Marks this directory as a Python package.
+
 Likely stores project-wide constants like file paths, model parameters, etc.
-entity/
+
+## entity/
+
 init.py (empty): Marks this directory as a Python package.
+
 Could hold data structures or classes representing entities used in the project (e.g., ConfigEntity).
+
 config_entity.py: Might define a class to encapsulate configuration settings.
+
 end_point.py: Potentially defines a web API endpoint for making predictions.
-app.py: Possibly the main application entry point (depending on project structure).
-main.py: Alternatively, could be the main entry point for command-line execution.
-Dockerfile: Defines instructions for building a Docker image to package the project and its dependencies.
-requirements.txt: Lists the required Python packages for the project.
-setup.py: Assists with project installation and packaging.
-research/building_energy_predictor.py: Might contain exploratory research scripts or specific implementations of energy prediction models.
+
+### app.py: Possibly the main application entry point (depending on project structure).
+### main.py: Alternatively, could be the main entry point for command-line execution.
+### Dockerfile: Defines instructions for building a Docker image to package the project and its dependencies.
+### requirements.txt: Lists the required Python packages for the project.
+### setup.py: Assists with project installation and packaging.
+### research/building_energy_predictor.py: Might contain exploratory research scripts or specific implementations of energy prediction models.
